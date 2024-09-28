@@ -1,0 +1,24 @@
+.form-section {
+  display: flex;
+}
+
+.form-row {
+  display: table-cell;
+  max-width: 2400px;
+}
+
+.form-row .mat-raised-button {
+  margin-right: 8px;
+}
+
+.form-row .mat-form-field {
+  margin-right: 8px;
+}
+
+.short-text-field {
+  min-width: 250px;
+}
+
+.long-text-field {
+  min-width: 600px;
+}
